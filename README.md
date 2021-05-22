@@ -1,6 +1,6 @@
 # Titanic - Who would have survived ?
 
-This notebook contains an analysis about the Titanic disaster: our dataset contains information about the people aboard, such as age, sex, class, fare, who survived and who did not.
+This notebook contains an analysis about the Titanic disaster: our dataset has information about the people aboard, such as age, sex, class, fare, who survived and who did not.
 
 Using the **Logistic Regression** method, our model can predict who would have survived.
 
